@@ -41,4 +41,4 @@ This file tracks my daily progress as I solve DSA problems from curated lists li
 ---
 
 Keep grinding! 💪✨  
-> “Discipline is the bridge between goals and accomplishment.” – Jim Rohn
+> “Discipline is the bridge between goals and accomplishment.” – Ravi

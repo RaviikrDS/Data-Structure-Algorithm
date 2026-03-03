@@ -1,53 +1,137 @@
-# 🚀 Master DSA – Ravi's Data Structures & Algorithms Journey
+# 📘 Data Structures & Algorithms in Python – Foundations
 
-Welcome to my personal repository for mastering Data Structures and Algorithms (DSA). This repo documents my learning and practice of the most essential and commonly asked coding problems, especially for FAANG and top tech interviews.
+A **comprehensive Data Structures and Algorithms (DSA) course in Python**, designed to build strong problem-solving skills from scratch and prepare learners for **technical interviews, competitive programming, and advanced CS/ML topics**.
 
----
-
-## 📌 Goal
-To build strong problem-solving skills by practicing high-quality problems from:
-- Blind 75
-- NeetCode 150
-- LeetCode Top Interview 100
+This repository contains **well-structured explanations, Python implementations, and curated problem sets** covering the most important DSA concepts and patterns.
 
 ---
 
-## 🧠 Topics Covered
-- ✅ Arrays
-- ✅ Strings
-- ✅ Linked Lists
-- ✅ Binary Trees & BSTs
-- ✅ Stacks & Queues
-- ✅ Sliding Window
-- ✅ Recursion & Backtracking
-- ✅ Binary Search
-- ✅ Heaps & Priority Queues
-- ✅ Graphs (DFS/BFS)
-- ✅ Dynamic Programming (DP)
-- ✅ Tries
-- ✅ Intervals
-- ✅ Matrices
+## 🚀 Course Objectives
+
+- Build **strong DSA fundamentals** using Python
+- Develop a **pattern-based problem-solving mindset**
+- Write **clean, optimized, interview-ready code**
+- Prepare for **product-based company interviews**
+- Create a solid base for **advanced DSA, ML, and system design**
 
 ---
 
-## 📁 Repository Structure
+## 🧑‍💻 Who This Course Is For
 
-Master-DSA/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-├── BinarySearch/
-├── StackQueue/
-├── SlidingWindow/
-├── Recursion/
-├── Backtracking/
-├── Heaps/
-├── Tries/
-├── Intervals/
-├── Matrices/
-├── README.md
-└── progress_tracker.md
+- Beginners starting with **DSA in Python**
+- Working professionals preparing for **technical interviews**
+- Students aiming for **software engineering or ML roles**
+- Anyone who wants to improve **logical thinking & problem solving**
 
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3  
+- **Tools:** VS Code / Jupyter Notebook  
+- **Practice Platforms:** LeetCode, HackerRank (recommended)
+
+---
+
+## 📚 Course Curriculum
+
+### 1️⃣ Introduction to DSA & Python Basics
+- What is DSA and why it matters
+- Time & space complexity (Big-O)
+- Python essentials for problem solving
+
+### 2️⃣ Arrays and Lists
+- Traversal, insertion, deletion
+- Prefix sums
+- Sliding window basics
+
+### 3️⃣ Strings
+- Character frequency techniques
+- Two pointer approach
+- Anagrams, palindromes, substrings
+
+### 4️⃣ Linked Lists
+- Singly & doubly linked lists
+- Fast & slow pointer technique
+- Cycle detection
+
+### 5️⃣ Stacks
+- Stack implementation
+- Valid parentheses
+
+### 6️⃣ Queues
+- Queue & deque
+- Circular queue
+- Sliding window using deque
+
+### 7️⃣ Searching
+- Linear search
+- Binary search
+- Binary search on answer
+- Searching in sorted structures
+
+### 8️⃣ Sorting
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Counting sort
+
+### 9️⃣ Recursion
+- Recursion fundamentals
+- Recursion tree
+- Common recursion problems
+
+### 🔟 Hashing
+- Hash maps & hash sets
+- Frequency counting
+- Subarray & substring problems
+- Optimized lookups
+
+### 1️⃣1️⃣ Patterns & Problem Solving
+- Sliding window
+- Two pointers
+- Prefix sums
+- Fast & slow pointer
+- Binary search pattern
+- Greedy basics
+
+### 1️⃣2️⃣ Trees
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
+- Binary Search Tree
+- N-ary Tree
+- Tree Dynamic Programming
+
+### 1️⃣3️⃣ Graphs
+- Adjacency Matrix and List
+- Breadth First Search
+- Depth First Search
+- Shortest Path Algorithms
+- Directed Acyclic Graphs
+- Disjoint Set Union
+- Minimum Spanning Tree Algorithms
+- State Space Graphs
+
+---
+
+## 📂 Repository Structure
+
+```text
+📦 DSA-Python
+ ┣ 📁 01_Intro_Python_Basics
+ ┣ 📁 02_Arrays_Lists
+ ┣ 📁 03_Strings
+ ┣ 📁 04_Linked_Lists
+ ┣ 📁 05_Stacks
+ ┣ 📁 06_Queues
+ ┣ 📁 07_Searching
+ ┣ 📁 08_Sorting
+ ┣ 📁 09_Recursion
+ ┣ 📁 10_Hashing
+ ┣ 📁 11_Patterns_Problem_Solving
+ ┣ 📁 12_Trees
+ ┣ 📁 13_Graphs
+ ┗ 📄 README.md
